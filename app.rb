@@ -1,9 +1,11 @@
 require 'sinatra'
 
-get '/' do
-  'testing...'
-end
+class App < Sinatra::Base
+  get '/' do
+    'testing...'
+  end
 
-get '/hello' do
-  'world!'
+  get '/hello' do
+    'world!'
+  end
 end
