@@ -19,6 +19,7 @@ GEM
       diff-lcs (>= 1.2.0, < 2.0)
       rspec-support (~> 3.7.0)
     rspec-support (3.7.1)
+    rspec_tap (0.1.0)
     sinatra (2.0.1)
       mustermann (~> 1.0)
       rack (~> 2.0)
@@ -31,6 +32,7 @@ PLATFORMS
 
 DEPENDENCIES
   rspec
+  rspec_tap
   sinatra
 
 RUBY VERSION
