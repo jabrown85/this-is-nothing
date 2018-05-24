@@ -2,4 +2,8 @@ source "https://rubygems.org"
 ruby "2.5.1"
 
 gem "sinatra"
-gem "rspec"
+
+group :test do
+  gem "rspec"
+  gem "rspec_tap"
+end
