@@ -1,1 +1,1 @@
-release: wait 5m
+release: echo
