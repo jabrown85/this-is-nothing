@@ -8,6 +8,9 @@
     },
     "RACK_ENV": {
       "required": true
+    },
+    "NEVER_GOING_TO_BUILD": {
+      "required": true
     }
   },
   "formation": {
