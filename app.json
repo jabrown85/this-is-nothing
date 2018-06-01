@@ -5,9 +5,6 @@
   "env": {
     "RACK_ENV": {	
       "required": true	
-    },
-    "TEST": {
-      "required": true
     }
   },
   "formation": {
