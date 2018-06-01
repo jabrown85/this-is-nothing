@@ -3,6 +3,9 @@
   "scripts": {
   },
   "env": {
+    "RACK_ENV": {	
+      "required": true	
+    }
   },
   "formation": {
     "web": {
