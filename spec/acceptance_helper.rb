@@ -8,7 +8,7 @@ require 'capybara'
 require 'capybara/dsl'
 require 'capybara/rspec'
 
-Capybara.app = Sinatra::Application
+Capybara.app = App
 
 chrome_bin = ENV.fetch('GOOGLE_CHROME_SHIM', nil)
 
