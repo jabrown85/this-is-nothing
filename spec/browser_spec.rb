@@ -1,7 +1,7 @@
 require File.dirname(__FILE__) + '/acceptance_helper'
 
-describe "the signin process", type: :feature do
-  it "signs me in" do
+feature 'Navigation' do
+  scenario 'they visit the hello page' do
     visit '/hello'
     expect(page).to have_content 'World'
   end
