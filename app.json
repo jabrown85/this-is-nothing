@@ -1,5 +1,6 @@
 {
   "name": "this-is-nothing",
+  "stack": "cedar-14",
   "scripts": {
   },
   "env": {
