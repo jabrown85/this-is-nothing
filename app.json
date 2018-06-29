@@ -1,5 +1,6 @@
 {
   "name": "this-is-nothing",
+  "stack": "cedar-14",
   "scripts": {
   },
   "env": {
@@ -16,14 +17,14 @@
     }
   },
   "addons": [
-
+    "heroku-postgresql:standard-0"
   ],
   "scripts": {
     "test": "rspec -f RspecTap::Formatter"
   },
   "buildpacks": [
-    {
-      "url": "heroku/ruby"
-    }
+    { "url": "heroku/ruby" },
+    { "url": "https://github.com/heroku/heroku-buildpack-chromedriver" },
+    { "url": "https://github.com/heroku/heroku-buildpack-google-chrome" }
   ]
 }

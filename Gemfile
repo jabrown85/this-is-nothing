@@ -6,4 +6,6 @@ gem "sinatra"
 group :test do
   gem "rspec"
   gem "rspec_tap"
+  gem "selenium-webdriver"
+  gem "capybara"
 end
