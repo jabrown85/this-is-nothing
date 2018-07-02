@@ -7,7 +7,7 @@ disable :run
 require 'selenium/webdriver'
 
 options = Selenium::WebDriver::Chrome::Options.new
-chrome_bin = ENV.fetch('GOOGLE_CHROME_BIN', nil)
+chrome_bin = ENV.fetch('GOOGLE_CHROME_SHIM', nil)
 options.binary = chrome_bin if chrome_bin
 # options.add_argument('--no-sandbox')
 # options.add_argument('--disable-dev-shm-usage')
