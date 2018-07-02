@@ -2,6 +2,7 @@ source "https://rubygems.org"
 ruby "2.5.1"
 
 gem "sinatra"
+gem "selenium"
 
 group :test do
   gem "rspec"
