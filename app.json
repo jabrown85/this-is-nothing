@@ -10,7 +10,7 @@
       "required": true
     },
     "HEROKU_APP_NAME": {
-      "description": "Automatically set by Heroku",
+      "description": "Automatically set by Heroku.",
       "required": true
     }
   },
