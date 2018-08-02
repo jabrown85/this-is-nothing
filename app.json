@@ -18,9 +18,6 @@
   "addons": [
 
   ],
-  "scripts": {
-    "test": "rspec -f RspecTap::Formatter"
-  },
   "buildpacks": [
     {
       "url": "heroku/ruby"
