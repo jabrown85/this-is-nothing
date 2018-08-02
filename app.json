@@ -8,6 +8,10 @@
     },
     "RACK_ENV": {
       "required": true
+    },
+    "HEROKU_APP_NAME": {
+      "description": "Automatically set by Heroku.",
+      "required": true
     }
   },
   "formation": {
