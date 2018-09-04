@@ -16,15 +16,13 @@
     }
   },
   "addons": [
-    "heroku-postgresql:in-dyno",
-    "heroku-redis:in-dyno"
   ],
   "scripts": {
     "test": "rspec -f RspecTap::Formatter"
   },
   "buildpacks": [
-    {
-      "url": "heroku/ruby"
-    }
+    { "url": "https://github.com/heroku/heroku-buildpack-ci-postgresql" },
+    { "url": "https://github.com/heroku/heroku-buildpack-ci-redis" },
+    { "url": "heroku/ruby"	    }
   ]
 }
