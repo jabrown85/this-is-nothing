@@ -9,7 +9,8 @@
     },
     "RACK_ENV": {
       "required": true
-    }
+    },
+    "GOOGLE_CHROME_CHANNEL": "beta"
   },
   "formation": {
     "web": {
