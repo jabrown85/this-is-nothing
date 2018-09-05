@@ -1,6 +1,6 @@
 {
   "name": "this-is-nothing",
-  "stack": "cedar-14",
+  "stack": "heroku-18",
   "scripts": {
   },
   "env": {
