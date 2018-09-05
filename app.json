@@ -1,31 +1,25 @@
 {
   "name": "this-is-nothing",
   "stack": "heroku-18",
-  "scripts": {
-  },
   "env": {
     "LANG": {
       "required": true
     },
     "RACK_ENV": {
       "required": true
-    },
-    "GOOGLE_CHROME_CHANNEL": "unstable"
+    }
   },
   "formation": {
     "web": {
       "quantity": 1
     }
   },
-  "addons": [
-    "heroku-postgresql:standard-0"
-  ],
   "scripts": {
     "test": "rspec -f RspecTap::Formatter"
   },
   "buildpacks": [
-    { "url": "heroku/ruby" },
     { "url": "https://github.com/heroku/heroku-buildpack-chromedriver" },
-    { "url": "https://github.com/heroku/heroku-buildpack-google-chrome.git#purge-apt-cache" }
+    { "url": "https://github.com/heroku/heroku-buildpack-google-chrome.git#purge-apt-cache" },
+    { "url": "heroku/ruby" }
   ]
 }
