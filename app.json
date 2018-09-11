@@ -7,8 +7,7 @@
     },
     "RACK_ENV": {
       "required": true
-    },
-    "HEROKU_SPRETTUR_URL": "https://sprettur-staging-pr-114.herokuapp.com/sprettur"
+    }
   },
   "formation": {
     "web": {
@@ -19,7 +18,6 @@
     "test": "rspec -f RspecTap::Formatter"
   },
   "buildpacks": [
-    { "url": "heroku-community/multi-procfile" },
     { "url": "jabrown85/empty" },
     { "url": "jabrown85/chromedriver" },
     { "url": "jabrown85/google-chrome" },
