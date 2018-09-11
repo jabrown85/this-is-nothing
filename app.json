@@ -7,7 +7,8 @@
     },
     "RACK_ENV": {
       "required": true
-    }
+    },
+    "HEROKU_SPRETTUR_URL": "https://sprettur-staging-pr-114.herokuapp.com/sprettur"
   },
   "formation": {
     "web": {
