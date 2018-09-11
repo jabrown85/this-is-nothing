@@ -21,6 +21,6 @@
     { "url": "jabrown85/empty" },
     { "url": "https://github.com/heroku/heroku-buildpack-chromedriver" },
     { "url": "https://github.com/heroku/heroku-buildpack-google-chrome.git" },
-    "heroku/ruby"
+    { "url": "heroku/ruby" }
   ]
 }
