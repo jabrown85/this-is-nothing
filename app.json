@@ -18,6 +18,7 @@
     "test": "rspec -f RspecTap::Formatter"
   },
   "buildpacks": [
+    { "url": "heroku-community/multi-procfile" },
     { "url": "jabrown85/empty" },
     { "url": "jabrown85/chromedriver" },
     { "url": "jabrown85/google-chrome" },
