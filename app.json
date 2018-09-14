@@ -2,11 +2,7 @@
   "name": "this-is-nothing",
   "scripts": {
   },
-  "env": {
-    "LANG": {
-      "required": true
-    },
-    "RACK_ENV": {
+  
       "required": true
     }
   },
@@ -18,9 +14,7 @@
   "addons": [
 
   ],
-  "scripts": {
-    "test": "rspec -f RspecTap::Formatter"
-  },
+  "s
   "buildpacks": [
     {
       "url": "heroku/ruby"
