@@ -7,3 +7,14 @@ libgdk-pixbuf2.0-0
 libthai0
 libpixman-1-0
 libxcb-render0
+libharfbuzz0b
+librsvg2-2
+librsvg2-common
+libcroco3
+libdjvulibre-text
+libdjvulibre21
+libglib2.0-data
+libgraphite2-3
+libilmbase12
+libnetpbm10
+libopenexr22
