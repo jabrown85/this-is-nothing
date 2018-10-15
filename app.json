@@ -19,7 +19,8 @@
 
   ],
   "scripts": {
-    "test": "rspec -f RspecTap::Formatter"
+    "test": "rspec -f RspecTap::Formatter",
+    "postdeploy": "bundle exec bin/not-there"
   },
   "buildpacks": [
     {
