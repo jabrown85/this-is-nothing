@@ -19,6 +19,7 @@
 
   ],
   "scripts": {
+    "test-setup": "bin/test-setup $CI_NODE_INDEX",
     "test": "rspec -f RspecTap::Formatter"
   },
   "buildpacks": [
