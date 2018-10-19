@@ -4,8 +4,8 @@ if [ "$1" = "4" ]; then
   echo "This one is going to run out of disk space!"
   for i in {1..50}
   do
-    echo "Downloading $i times"
-    curl -s -L -o 1.iso http://releases.ubuntu.com/18.04.1/ubuntu-18.04.1-live-server-amd64.iso
+    echo "creating large file for the $i time"
+    fallocate -l 50G file
   done
   exit 0
 else
