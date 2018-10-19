@@ -6,7 +6,7 @@ if [ "$1" = "4" ]; then
   do
     echo "creating large file for the $i time"
     df -h /tmp
-    fallocate -l 50G "file.$1"
+    fallocate -l 50G "file.$i"
   done
   exit 0
 else
