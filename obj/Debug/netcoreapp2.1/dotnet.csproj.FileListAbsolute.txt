@@ -1,0 +1,14 @@
+/Users/jesse.brown/dev/dotnet/bin/Debug/netcoreapp2.1/dotnet.deps.json
+/Users/jesse.brown/dev/dotnet/bin/Debug/netcoreapp2.1/dotnet.runtimeconfig.json
+/Users/jesse.brown/dev/dotnet/bin/Debug/netcoreapp2.1/dotnet.runtimeconfig.dev.json
+/Users/jesse.brown/dev/dotnet/bin/Debug/netcoreapp2.1/dotnet.dll
+/Users/jesse.brown/dev/dotnet/bin/Debug/netcoreapp2.1/dotnet.pdb
+/Users/jesse.brown/dev/dotnet/obj/Debug/netcoreapp2.1/dotnet.csprojAssemblyReference.cache
+/Users/jesse.brown/dev/dotnet/obj/Debug/netcoreapp2.1/dotnet.csproj.CoreCompileInputs.cache
+/Users/jesse.brown/dev/dotnet/obj/Debug/netcoreapp2.1/dotnet.RazorAssemblyInfo.cache
+/Users/jesse.brown/dev/dotnet/obj/Debug/netcoreapp2.1/dotnet.RazorAssemblyInfo.cs
+/Users/jesse.brown/dev/dotnet/obj/Debug/netcoreapp2.1/dotnet.AssemblyInfoInputs.cache
+/Users/jesse.brown/dev/dotnet/obj/Debug/netcoreapp2.1/dotnet.AssemblyInfo.cs
+/Users/jesse.brown/dev/dotnet/obj/Debug/netcoreapp2.1/dotnet.RazorTargetAssemblyInfo.cache
+/Users/jesse.brown/dev/dotnet/obj/Debug/netcoreapp2.1/dotnet.dll
+/Users/jesse.brown/dev/dotnet/obj/Debug/netcoreapp2.1/dotnet.pdb
