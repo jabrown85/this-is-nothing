@@ -8,6 +8,12 @@
     },
     "RACK_ENV": {
       "required": true
+    },
+    "HEROKU_APP_NAME": {
+
+    },
+    "HEROKU_BRANCH": {
+
     }
   },
   "formation": {
