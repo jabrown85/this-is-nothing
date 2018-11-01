@@ -12,4 +12,8 @@ class App < Sinatra::Base
   get '/hi' do
     '!!!'
   end
+
+  get '/env' do
+    ENV.to_h.to_s
+  end
 end
