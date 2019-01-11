@@ -2,6 +2,7 @@ require 'sinatra'
 
 class App < Sinatra::Base
   get '/' do
+    sleep 50
     'testing...'
   end
 
