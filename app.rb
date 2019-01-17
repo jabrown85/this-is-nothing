@@ -13,4 +13,8 @@ class App < Sinatra::Base
   get '/hi' do
     '!!!'
   end
+  
+  get '/fail' do
+    raise 'sorry!!!'
+  end
 end
