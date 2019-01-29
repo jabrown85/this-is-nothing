@@ -1,15 +1,5 @@
 {
   "name": "this-is-nothing",
-  "scripts": {
-  },
-  "env": {
-    "LANG": {
-      "required": true
-    },
-    "RACK_ENV": {
-      "required": true
-    }
-  },
   "formation": {
     "web": {
       "quantity": 1
@@ -19,11 +9,10 @@
 
   ],
   "scripts": {
-    "test": "rspec -f RspecTap::Formatter"
+    "test-setup": "echo setup",
+    "test": "echo test"
   },
   "buildpacks": [
-    {
-      "url": "heroku/ruby"
-    }
+
   ]
 }
