@@ -1,3 +1,8 @@
 build:
   docker:
     web: Dockerfile
+run:
+  web:
+    command:
+      - "echo hello"
+    image: web
