@@ -1,8 +1,12 @@
 build:
   docker:
     web: Dockerfile
-# run:
-#   web:
-#     command:
-#       - "echo hello"
-#     image: web
+run:
+  web:
+    command:
+      - "echo hello"
+    image: web
+  worker:
+    command:
+      - "echo testing"
+    image: web
