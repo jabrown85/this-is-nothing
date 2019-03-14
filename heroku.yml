@@ -302,3 +302,111 @@ run:
     command:
       - "echo testing"
     image: web
+  worker74:
+    command:
+      - "echo testing"
+    image: web
+  worker75:
+    command:
+      - "echo testing"
+    image: web
+  worker76:
+    command:
+      - "echo testing"
+    image: web
+  worker77:
+    command:
+      - "echo testing"
+    image: web
+  worker78:
+    command:
+      - "echo testing"
+    image: web
+  worker79:
+    command:
+      - "echo testing"
+    image: web
+  worker80:
+    command:
+      - "echo testing"
+    image: web
+  worker81:
+    command:
+      - "echo testing"
+    image: web
+  worker82:
+    command:
+      - "echo testing"
+    image: web
+  worker83:
+    command:
+      - "echo testing"
+    image: web
+  worker84:
+    command:
+      - "echo testing"
+    image: web
+  worker85:
+    command:
+      - "echo testing"
+    image: web
+  worker86:
+    command:
+      - "echo testing"
+    image: web
+  worker87:
+    command:
+      - "echo testing"
+    image: web
+  worker88:
+    command:
+      - "echo testing"
+    image: web
+  worker89:
+    command:
+      - "echo testing"
+    image: web
+  worker90:
+    command:
+      - "echo testing"
+    image: web
+  worker91:
+    command:
+      - "echo testing"
+    image: web
+  worker92:
+    command:
+      - "echo testing"
+    image: web
+  worker93:
+    command:
+      - "echo testing"
+    image: web
+  worker94:
+    command:
+      - "echo testing"
+    image: web
+  worker95:
+    command:
+      - "echo testing"
+    image: web
+  worker96:
+    command:
+      - "echo testing"
+    image: web
+  worker97:
+    command:
+      - "echo testing"
+    image: web
+  worker98:
+    command:
+      - "echo testing"
+    image: web
+  worker99:
+    command:
+      - "echo testing"
+    image: web
+  worker100:
+    command:
+      - "echo testing"
+    image: web
