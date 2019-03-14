@@ -158,3 +158,147 @@ run:
     command:
       - "echo testing"
     image: web
+  worker38:
+    command:
+      - "echo testing"
+    image: web
+  worker39:
+    command:
+      - "echo testing"
+    image: web
+  worker40:
+    command:
+      - "echo testing"
+    image: web
+  worker41:
+    command:
+      - "echo testing"
+    image: web
+  worker42:
+    command:
+      - "echo testing"
+    image: web
+  worker43:
+    command:
+      - "echo testing"
+    image: web
+  worker44:
+    command:
+      - "echo testing"
+    image: web
+  worker45:
+    command:
+      - "echo testing"
+    image: web
+  worker46:
+    command:
+      - "echo testing"
+    image: web
+  worker47:
+    command:
+      - "echo testing"
+    image: web
+  worker48:
+    command:
+      - "echo testing"
+    image: web
+  worker49:
+    command:
+      - "echo testing"
+    image: web
+  worker50:
+    command:
+      - "echo testing"
+    image: web
+  worker51:
+    command:
+      - "echo testing"
+    image: web
+  worker52:
+    command:
+      - "echo testing"
+    image: web
+  worker53:
+    command:
+      - "echo testing"
+    image: web
+  worker54:
+    command:
+      - "echo testing"
+    image: web
+  worker55:
+    command:
+      - "echo testing"
+    image: web
+  worker56:
+    command:
+      - "echo testing"
+    image: web
+  worker57:
+    command:
+      - "echo testing"
+    image: web
+  worker58:
+    command:
+      - "echo testing"
+    image: web
+  worker59:
+    command:
+      - "echo testing"
+    image: web
+  worker60:
+    command:
+      - "echo testing"
+    image: web
+  worker61:
+    command:
+      - "echo testing"
+    image: web
+  worker62:
+    command:
+      - "echo testing"
+    image: web
+  worker63:
+    command:
+      - "echo testing"
+    image: web
+  worker64:
+    command:
+      - "echo testing"
+    image: web
+  worker65:
+    command:
+      - "echo testing"
+    image: web
+  worker66:
+    command:
+      - "echo testing"
+    image: web
+  worker67:
+    command:
+      - "echo testing"
+    image: web
+  worker68:
+    command:
+      - "echo testing"
+    image: web
+  worker69:
+    command:
+      - "echo testing"
+    image: web
+  worker70:
+    command:
+      - "echo testing"
+    image: web
+  worker71:
+    command:
+      - "echo testing"
+    image: web
+  worker72:
+    command:
+      - "echo testing"
+    image: web
+  worker73:
+    command:
+      - "echo testing"
+    image: web
