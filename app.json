@@ -19,7 +19,8 @@
 
   ],
   "scripts": {
-    "test": "rspec -f RspecTap::Formatter"
+    "test": "rspec -f RspecTap::Formatter",
+    "pr-predestroy": "echo 'hi'"
   },
   "buildpacks": [
     {
