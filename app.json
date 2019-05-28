@@ -18,7 +18,7 @@
   ],
   "scripts": {
     "test": "rspec -f RspecTap::Formatter",
-    "postdeploy": "asdfadsf"
+    "postdeploy": "echo 'hi'"
   },
   "buildpacks": [
     {
