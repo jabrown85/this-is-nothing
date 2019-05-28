@@ -1,6 +1,7 @@
 {
   "name": "this-is-nothing",
   "scripts": {
+    "postdeploy": "echo 'hi'"
   },
   "env": {
     "LANG": {
