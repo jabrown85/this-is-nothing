@@ -1,8 +1,5 @@
 {
   "name": "this-is-nothing",
-  "scripts": {
-    "postdeploy": "asdfadsf"
-  },
   "env": {
     "LANG": {
       "required": true
@@ -20,7 +17,8 @@
 
   ],
   "scripts": {
-    "test": "rspec -f RspecTap::Formatter"
+    "test": "rspec -f RspecTap::Formatter",
+    "postdeploy": "asdfadsf"
   },
   "buildpacks": [
     {
