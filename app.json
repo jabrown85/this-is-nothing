@@ -1,7 +1,7 @@
 {
   "name": "this-is-nothing",
   "scripts": {
-    "postdeploy": "echo 'hi' && exit 1"
+    "postdeploy": "asdfadsf"
   },
   "env": {
     "LANG": {
