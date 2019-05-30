@@ -26,7 +26,7 @@
       "quantity": 1,
       "size": "free"
     }
-  }
+  },
   "buildpacks": [
     {
       "url": "heroku/ruby"
