@@ -18,11 +18,9 @@
   "addons": [
   ],
   "scripts": {
-    "test": "rspec -f RspecTap::Formatter"
+    "test": "echo 'hello'"
   },
   "buildpacks": [
-    { "url": "https://github.com/heroku/heroku-buildpack-ci-postgresql" },
-    { "url": "https://github.com/heroku/heroku-buildpack-ci-redis" },
-    { "url": "heroku/ruby"	    }
+    { "url": "https://github.com/heroku/heroku-buildpack-ci-redis" }
   ]
 }
