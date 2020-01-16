@@ -20,7 +20,7 @@
   ],
   "scripts": {
     "test": "rspec -f RspecTap::Formatter",
-    "pr-predestroy": "echo 'hi'"
+    "pr-predestroy": "echo 'hi' && sleep 60 && echo 'bye'"
   },
   "buildpacks": [
     {
