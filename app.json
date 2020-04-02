@@ -28,12 +28,17 @@
   ],
   "environments": {
     "review": {
+      "env": {
+        "TEST": {
+          "value": "HERE?"
+        },
+      },
       "formation": {
-        "web": {
-          "quantity": 2,
-          "size": "Performance-M"
-        }
+          "test": {
+            "quantity": 2,
+            "size": "performance-l"
+          }
       }
-    }
-  }
+   }
+}
 }
