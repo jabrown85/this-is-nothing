@@ -31,7 +31,7 @@
         }
       },
       "formation": {
-        "test": {
+        "web": {
           "quantity": 2,
           "size": "performance-l"
         }
