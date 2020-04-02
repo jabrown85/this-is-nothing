@@ -25,5 +25,15 @@
     {
       "url": "heroku/ruby"
     }
-  ]
+  ],
+  "environment": {
+    "review": {
+      "formation": {
+        "web": {
+          "quantity": 2,
+          "size": "Performance-M"
+        }
+      }
+    }
+  }
 }
