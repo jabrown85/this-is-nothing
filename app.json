@@ -1,7 +1,6 @@
 {
   "name": "this-is-nothing",
-  "scripts": {
-  },
+  "scripts": {},
   "env": {
     "LANG": {
       "required": true
@@ -15,9 +14,7 @@
       "quantity": 1
     }
   },
-  "addons": [
-
-  ],
+  "addons": [],
   "scripts": {
     "test": "rspec -f RspecTap::Formatter"
   },
@@ -31,13 +28,14 @@
       "env": {
         "TEST": {
           "value": "HERE?"
-        },
+        }
       },
       "formation": {
-          "test": {
-            "quantity": 2,
-            "size": "performance-l"
-          }
+        "test": {
+          "quantity": 2,
+          "size": "performance-l"
+        }
       }
-   }
+    }
+  }
 }
