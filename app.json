@@ -1,5 +1,5 @@
 {
-  "name": "this-is-nothing",
+  "name": "this-is-nothingssss",
   "scripts": {
   },
   "env": {
@@ -19,7 +19,8 @@
 
   ],
   "scripts": {
-    "test": "rspec -f RspecTap::Formatter"
+    "test": "rspec -f RspecTap::Formatter",
+    "pr-predestroy": "echo 'hi' && sleep 60 && echo 'bye'"
   },
   "buildpacks": [
     {
