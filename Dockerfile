@@ -28,7 +28,6 @@ FROM wordpress
 FROM nextcloud
 FROM haproxy
 FROM ruby
-FROM elasticsearch
 FROM maven
 FROM php
 FROM sonarqube
