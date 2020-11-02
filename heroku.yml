@@ -2,13 +2,6 @@ build:
   docker:
     image1:
       dockerfile: Dockerfile
-      target: one
-    image2:
-      dockerfile: Dockerfile
-      target: two
-    image3:
-      dockerfile: Dockerfile
-      target: three
 run:
   web:
     command:
