@@ -41,7 +41,6 @@ FROM vault
 FROM adminer
 FROM ghost
 FROM sentry
-FROM kibana
 FROM bash
 FROM logstash
 FROM kong
@@ -107,3 +106,4 @@ FROM storm
 FROM photon
 FROM plone
 FROM clearlinux
+FROM heroku/heroku:18
