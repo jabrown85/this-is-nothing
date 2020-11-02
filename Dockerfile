@@ -42,7 +42,6 @@ FROM adminer
 FROM ghost
 FROM sentry
 FROM bash
-FROM logstash
 FROM kong
 FROM cassandra
 FROM teamspeak
