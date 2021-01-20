@@ -1,9 +1,0 @@
-build:
-  docker:
-    image1:
-      dockerfile: Dockerfile
-run:
-  web:
-    command:
-      - "echo hello"
-    image: image1

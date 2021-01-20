@@ -13,6 +13,8 @@
     "test": "echo test"
   },
   "buildpacks": [
-
+    {
+      "url": "https://example.com/fake/url"
+    }
   ]
 }
