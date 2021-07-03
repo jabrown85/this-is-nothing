@@ -1,5 +1,6 @@
 {
   "name": "this-is-nothing",
+  "description": "testing",
   "scripts": {
   },
   "env": {
@@ -20,6 +21,12 @@
   ],
   "scripts": {
     "test": "rspec -f RspecTap::Formatter"
+  },
+  "formation": {
+    "web": {
+      "quantity": 1,
+      "size": "hobby"
+    }
   },
   "buildpacks": [
     {
