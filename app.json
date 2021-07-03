@@ -1,6 +1,7 @@
 {
   "name": "this-is-nothing",
   "scripts": {
+    "pr-predestroy": "echo hello"
   },
   "env": {
     "LANG": {
