@@ -2,6 +2,7 @@
   "name": "this-is-nothing",
   "scripts": {
   },
+  "stack": "heroku-20",
   "env": {
     "LANG": {
       "required": true
