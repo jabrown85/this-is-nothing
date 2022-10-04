@@ -16,8 +16,7 @@
     }
   },
   "addons": [
-    "heroku-postgresql:hobby-dev",
-    "heroku-redis:hobby-dev"
+    "heroku-postgresql:hobby-dev"
   ],
   "scripts": {
     "test": "rspec -f RspecTap::Formatter"
