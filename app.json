@@ -17,10 +17,6 @@
       "size": "Free"
     }
   },
-  "addons": [
-    "heroku-postgresql:hobby-dev",
-    "heroku-redis:hobby-dev"
-  ],
   "scripts": {
     "test": "rspec -f RspecTap::Formatter"
   },
