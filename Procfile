@@ -1,1 +1,1 @@
-release: echo
+release: echo hello

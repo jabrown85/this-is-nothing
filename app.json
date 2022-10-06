@@ -2,6 +2,7 @@
   "name": "this-is-nothing",
   "scripts": {
   },
+  "stack": "heroku-20",
   "env": {
     "LANG": {
       "required": true
@@ -12,12 +13,10 @@
   },
   "formation": {
     "web": {
-      "quantity": 1
+      "quantity": 1,
+      "size": "Free"
     }
   },
-  "addons": [
-
-  ],
   "scripts": {
     "test": "rspec -f RspecTap::Formatter"
   },
